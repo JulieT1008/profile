@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+  background-color: rgb(227, 213, 167);
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  line-height: 1.6;
+  font-weight: 300;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 25px;
+  font-weight: 400;
+  margin-bottom: -30px;
+  margin-left: 20px;
+}
+
+h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 30px;
+  font-weight: 400;
+  font-style: italic;
+  margin-top: -40px;
+  margin-left: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+a:hover {
+  font-style: italic;
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.img-oval {
+  width: 500px;
+  border-radius: 50%;
+}
+
+.card {
+  margin-left: 20px;
+}
+
+#icons {
+  margin-bottom: -80px;
+  text-align: right;
+  font-size: 30px;
+}
+
+#icons ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 0px 5px;
+}
+
+#text-bold {
+  font-size: 50px;
+  font-weight: 700;
+  margin-top: -25px;
+  margin-left: 15px;
+}
+
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
