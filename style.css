@@ -35,12 +35,6 @@ a:hover {
   font-style: italic;
 }
 
-.container {
-  width: 700px;
-  margin: 0 auto;
-  padding-top: 20px;
-}
-
 .img-oval {
   width: 500px;
   border-radius: 50%;
@@ -69,20 +63,26 @@ a:hover {
   margin-left: 15px;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 1960px) {
   .container {
     width: 700px;
+    margin: 0 auto;
+    padding-top: 20px;
   }
 }
 
 @media (max-width: 720px) {
   .container {
-    width: 500px;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 20px;
   }
 }
 
 @media (max-width: 540px) {
   .container {
-    width: 300px;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 20px;
   }
 }
