@@ -6,4 +6,4 @@
 <p>You can check it here : https://juliet1008.github.io/profile/</p>
 
 
-![Screenshot of my Watch List.](images/screenshot-profile.png)
+![Screenshot of my profile](images/screenshot-profile.png)
