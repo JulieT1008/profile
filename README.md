@@ -3,7 +3,7 @@
 
 <p>---</p>
 
-<p>You can check it here : https://juliet1008.github.io/profile/</p>
+<p>You can check it here : http://juliet1008.me/profile/</p>
 
 
 ![Screenshot of my profile](images/screenshot-profile.png)
